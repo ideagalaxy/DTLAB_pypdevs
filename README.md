@@ -1,2 +1,2 @@
 # DTLAB_pypdevs
-Develope plant simulation by pypdevs lib
+Develop plant simulation by pypdevs lib
